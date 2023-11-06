@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Paweł</h1>
-<h3 align="center">I am currently working as Angular Developer. I have some experience working with C#, PHP, Python</h3>
+I am currently working as Angular Developer. I have some experience working with C#, PHP, Python
 
 - 🌱 I’m currently expanding my knowledge on **Angular and learning `html`, `css` and `typescript`**
 
